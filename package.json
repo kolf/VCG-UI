@@ -23,6 +23,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "babel-plugin-import": "^1.11.0",
     "react-styleguidist": "^8.0.6"
   }
 }
